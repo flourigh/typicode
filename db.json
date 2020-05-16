@@ -1,4 +1,34 @@
 {
-  "server": "ok",
-  "status: 200
+  "array": [
+    {
+      "robertomonteiro": {
+        "hobby": [
+          "music"
+        ],
+        "professional": [
+          "frontend"
+        ],
+        "contact": {
+          "github": "flourigh",
+          "instagram": "flourigh",
+          "linkedin": "flourigh"
+        }
+      }
+    }
+  ],
+  "object": {
+    "robertomonteiro": {
+      "hobby": [
+        "music"
+      ],
+      "professional": [
+        "frontend"
+      ],
+      "contact": {
+        "github": "flourigh",
+        "instagram": "flourigh",
+        "linkedin": "flourigh"
+      }
+    }
+  }
 }
